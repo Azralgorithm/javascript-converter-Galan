@@ -8,6 +8,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
     padding-top: 100px;
 }
 .converterContainer {
@@ -16,7 +17,7 @@
     justify-content: space-evenly;
     align-items: center;
     width: 95%;
-    max-width: 600px;
+    max-width: 400px;
     height: 500px;
     background: rgb(4, 83, 107);
     box-shadow: 0px 0px 10px 5px black;
