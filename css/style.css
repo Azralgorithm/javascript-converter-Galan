@@ -38,11 +38,11 @@ form div label {
 form div input {
     width: 100%;
     height: 40px;
+    background-color: beige;
+    
 }
 form div input::placeholder {
-    font-size: 15px;
-    font-weight: 600;
-    color: white;
+    display: none;
 }
 button {
     width: 100px;
